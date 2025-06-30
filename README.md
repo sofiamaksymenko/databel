@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes **customer churn** for **Databel**, a mobile network operator. Using Tableau, we visualized customer behavior, identified churn drivers, and proposed actionable recommendations to help reduce churn and improve customer satisfaction.
+This project analyzes **customer churn** for **Databel**, a mobile network operator. Using Tableau, I visualized customer behavior, identified churn drivers, and proposed actionable recommendations to help reduce churn and improve customer satisfaction.
 
 🔗 **Dashboard Link:** [View on Tableau Public](https://public.tableau.com/shared/HPKGRD4YX?:display_count=n&:origin=viz_share_link)
 
